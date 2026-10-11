@@ -1,0 +1,41 @@
+﻿"SKU (reemplazar por ID Golan)",Nombre,Categoria,"Precio habitual","Precio oferta",Stock
+PA-0003,"Agua Oxigenada 120ml","Primeros Auxilios",1690,1290,44
+CP-0002,"Alcohol Gel 70% 250ml","Cuidado Personal",2990,2490,80
+MED-0003,"Amoxicilina 500mg x 12 cap",Medicamentos,6990,5990,18
+MED-0012,"Antigripal Día y Noche x 10 comp",Medicamentos,5190,4490,40
+MED-0009,"Antiácido Masticable x 24 comp",Medicamentos,3490,2990,31
+CP-0005,"Colirio Lubricante 15ml","Cuidado Personal",5490,4490,23
+VIT-0004,"Colágeno Hidrolizado 300g",Vitaminas,18990,15990,17
+VIT-0002,"Complejo B x 60 comp",Vitaminas,8990,7490,22
+DC-0005,"Crema Antipruriginosa 30g",Dermocosmética,5990,4990,19
+DC-0002,"Crema Hidratante Facial 50ml",Dermocosmética,10990,8990,29
+PA-0005,"Crema para Quemaduras Leves 50g","Primeros Auxilios",7990,6990,9
+PA-0001,"Curitas Surtidas x 40 un","Primeros Auxilios",2490,1990,70
+CP-0006,"Enjuague Bucal Antiséptico 500ml","Cuidado Personal",5990,4990,36
+PA-0002,"Gasas Estériles x 10 un","Primeros Auxilios",1890,1490,55
+DC-0003,"Gel de Árnica 100g",Dermocosmética,6490,5490,21
+MED-0002,"Ibuprofeno 400mg x 10 comp",Medicamentos,2990,2490,35
+MED-0007,"Jarabe Expectorante 120ml",Medicamentos,5190,4490,24
+MED-0006,"Jarabe para la Tos Seca 120ml",Medicamentos,4990,4290,19
+MED-0011,"Leche de Magnesia 200ml",Medicamentos,3490,2990,17
+MED-0004,"Loratadina 10mg x 10 comp",Medicamentos,2790,2290,60
+VIT-0005,"Magnesio 400mg x 60 comp",Vitaminas,7490,6490,33
+CP-0003,"Mascarillas Quirúrgicas x 50 un","Cuidado Personal",6990,5990,65
+VIT-0003,"Melatonina 3mg x 30 comp",Vitaminas,10990,8990,15
+VIT-0006,"Omega 3 1000mg x 60 cap",Vitaminas,11490,9490,20
+MED-0005,"Omeprazol 20mg x 14 cap",Medicamentos,3990,3490,27
+DIS-0002,"Oxímetro de Pulso",Dispositivos,17990,14990,14
+MED-0001,"Paracetamol 500mg x 20 comp",Medicamentos,2490,1990,42
+CP-0007,"Pañales para Adulto x 10 un","Cuidado Personal",10990,8990,12
+PA-0004,"Povidona Yodada 120ml","Primeros Auxilios",2790,2290,38
+CP-0004,"Preservativos Lubricados x 12 un","Cuidado Personal",6990,5990,41
+VIT-0007,"Probióticos x 30 cap",Vitaminas,13990,11990,16
+DC-0001,"Protector Solar FPS 50+ 200ml",Dermocosmética,15990,12990,37
+DC-0004,"Shampoo Anticaída 400ml",Dermocosmética,11990,9990,26
+CP-0001,"Suero Fisiológico 500ml","Cuidado Personal",3490,2990,48
+MED-0010,"Suero Oral Rehidratante x 6 sobres",Medicamentos,4490,3990,28
+DIS-0003,"Tensiómetro Digital de Brazo",Dispositivos,29990,24990,11
+DIS-0001,"Termómetro Digital",Dispositivos,9990,7990,30
+DIS-0004,"Test de Embarazo Digital",Dispositivos,5990,4990,25
+MED-0008,"Valeriana 500mg x 30 comp",Medicamentos,6490,5490,13
+VIT-0001,"Vitamina C 1000mg x 30 comp",Vitaminas,8490,6990,54

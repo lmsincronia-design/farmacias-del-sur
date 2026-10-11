@@ -1,0 +1,38 @@
+# Configuración local y datos sensibles
+/wp-config.php
+/.env
+/.env.*
+*.sql
+*.sqlite
+/wp-content/database/
+/wp-content/db.php
+
+# WordPress y dependencias instalables
+/wp-admin/
+/wp-includes/
+/wp-*.php
+/index.php
+/license.txt
+/readme.html
+/xmlrpc.php
+/wp-cli.phar
+/sqlite.zip
+/create-products.php
+/make-homepage.php
+/wp-content/plugins/
+/wp-content/languages/
+/wp-content/themes/*
+!/wp-content/themes/farmacia-vida-sana/
+!/wp-content/themes/farmacia-vida-sana/**
+/wp-content/themes/farmacia-vida-sana/assets/images/*.png
+/wp-content/themes/farmacia-vida-sana/assets/images/promociones-vida-sana.webp
+
+# Archivos generados en ejecución
+/wp-content/cache/
+/wp-content/upgrade/
+/wp-content/debug.log
+*.log
+
+# Sistema operativo
+Thumbs.db
+.DS_Store
